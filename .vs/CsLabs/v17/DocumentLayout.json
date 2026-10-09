@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Projects\\CsLabs\\CsLabs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84C415DA-AE63-488A-AD25-7966515EC316}|CsLabs\\CsLabs.csproj|d:\\projects\\cslabs\\cslabs\\cslabs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84C415DA-AE63-488A-AD25-7966515EC316}|CsLabs\\CsLabs.csproj|solutionrelative:cslabs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{421A5C81-580A-4468-A392-E837A0A0142C}|Lab_4\\Lab_4.csproj|d:\\projects\\cslabs\\cslabs\\lab_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421A5C81-580A-4468-A392-E837A0A0142C}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73B5468A-F811-4CAD-ACDF-B02A9992035B}|Lab_3\\Lab_3.csproj|d:\\projects\\cslabs\\cslabs\\lab_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B5468A-F811-4CAD-ACDF-B02A9992035B}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,14 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\CsLabs\\CsLabs\\CsLabs\\Program.cs",
-              "RelativeDocumentMoniker": "CsLabs\\Program.cs",
-              "ToolTip": "D:\\Projects\\CsLabs\\CsLabs\\CsLabs\\Program.cs",
-              "RelativeToolTip": "CsLabs\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBQAAAAbAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Projects\\CsLabs\\CsLabs\\Lab_4\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_4\\Program.cs",
+              "ToolTip": "D:\\Projects\\CsLabs\\CsLabs\\Lab_4\\Program.cs",
+              "RelativeToolTip": "Lab_4\\Program.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAUwLsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T13:42:33.746Z",
+              "WhenOpened": "2026-10-09T03:10:52.114Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\CsLabs\\CsLabs\\Lab_3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_3\\Program.cs",
+              "ToolTip": "D:\\Projects\\CsLabs\\CsLabs\\Lab_3\\Program.cs",
+              "RelativeToolTip": "Lab_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T02:30:46.711Z"
             }
           ]
         }

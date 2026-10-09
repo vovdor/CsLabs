@@ -2,7 +2,7 @@
 
 namespace CsLabs
 {
-    class Lab_2
+    class Program
     {
         public static void Main()
         {
@@ -16,7 +16,7 @@ namespace CsLabs
             bool isPublic = bool.Parse(Console.ReadLine());
 
             Console.Write("Установлен пароль? (true/false): ");
-            bool hasPassword = bool.Parse(Console.ReadLine());
+                bool hasPassword = bool.Parse(Console.ReadLine());
 
             if (players <= 0)
             {

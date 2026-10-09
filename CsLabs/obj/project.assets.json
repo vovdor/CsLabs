@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\CsLabs\\CsLabs\\CsLabs\\CsLabs.csproj",
-      "projectName": "CsLabs",
-      "projectPath": "D:\\Projects\\CsLabs\\CsLabs\\CsLabs\\CsLabs.csproj",
+      "projectUniqueName": "D:\\Projects\\CsLabs\\CsLabs\\CsLabs\\Lab_2.csproj",
+      "projectName": "Lab_2",
+      "projectPath": "D:\\Projects\\CsLabs\\CsLabs\\CsLabs\\Lab_2.csproj",
       "packagesPath": "C:\\Users\\Selek\\.nuget\\packages\\",
       "outputPath": "D:\\Projects\\CsLabs\\CsLabs\\CsLabs\\obj\\",
       "projectStyle": "PackageReference",

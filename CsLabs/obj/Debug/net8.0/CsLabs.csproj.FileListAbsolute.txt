@@ -1,0 +1,15 @@
+D:\Projects\CsLabs\CsLabs\CsLabs\obj\Debug\net8.0\CsLabs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CsLabs\CsLabs\CsLabs\obj\Debug\net8.0\CsLabs.AssemblyInfoInputs.cache
+D:\Projects\CsLabs\CsLabs\CsLabs\obj\Debug\net8.0\CsLabs.AssemblyInfo.cs
+D:\Projects\CsLabs\CsLabs\CsLabs\obj\Debug\net8.0\CsLabs.csproj.CoreCompileInputs.cache
+D:\Projects\CsLabs\CsLabs\CsLabs\obj\Debug\net8.0\CsLabs.sourcelink.json
+D:\Projects\CsLabs\CsLabs\CsLabs\bin\Debug\net8.0\CsLabs.exe
+D:\Projects\CsLabs\CsLabs\CsLabs\bin\Debug\net8.0\CsLabs.deps.json
+D:\Projects\CsLabs\CsLabs\CsLabs\bin\Debug\net8.0\CsLabs.runtimeconfig.json
+D:\Projects\CsLabs\CsLabs\CsLabs\bin\Debug\net8.0\CsLabs.dll
+D:\Projects\CsLabs\CsLabs\CsLabs\bin\Debug\net8.0\CsLabs.pdb
+D:\Projects\CsLabs\CsLabs\CsLabs\obj\Debug\net8.0\CsLabs.dll
+D:\Projects\CsLabs\CsLabs\CsLabs\obj\Debug\net8.0\refint\CsLabs.dll
+D:\Projects\CsLabs\CsLabs\CsLabs\obj\Debug\net8.0\CsLabs.pdb
+D:\Projects\CsLabs\CsLabs\CsLabs\obj\Debug\net8.0\CsLabs.genruntimeconfig.cache
+D:\Projects\CsLabs\CsLabs\CsLabs\obj\Debug\net8.0\ref\CsLabs.dll
