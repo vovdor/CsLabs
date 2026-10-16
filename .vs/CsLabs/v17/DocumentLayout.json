@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Projects\\CsLabs\\CsLabs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{421A5C81-580A-4468-A392-E837A0A0142C}|Lab_4\\Lab_4.csproj|d:\\projects\\cslabs\\cslabs\\lab_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{421A5C81-580A-4468-A392-E837A0A0142C}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BED333E-94D3-4E14-9FCA-55C8E21B0584}|sem-1-lab-03-report-generator\\sem-1-lab-03-report-generator.csproj|d:\\projects\\cslabs\\cslabs\\sem-1-lab-03-report-generator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BED333E-94D3-4E14-9FCA-55C8E21B0584}|sem-1-lab-03-report-generator\\sem-1-lab-03-report-generator.csproj|solutionrelative:sem-1-lab-03-report-generator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73B5468A-F811-4CAD-ACDF-B02A9992035B}|Lab_3\\Lab_3.csproj|d:\\projects\\cslabs\\cslabs\\lab_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73B5468A-F811-4CAD-ACDF-B02A9992035B}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38CB6EE7-848E-4F7D-A41E-64A52AC093D2}|sem-1-lab-04-event-log\\sem-1-lab-04-event-log.csproj|d:\\projects\\cslabs\\cslabs\\sem-1-lab-04-event-log\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CB6EE7-848E-4F7D-A41E-64A52AC093D2}|sem-1-lab-04-event-log\\sem-1-lab-04-event-log.csproj|solutionrelative:sem-1-lab-04-event-log\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +24,27 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\CsLabs\\CsLabs\\Lab_4\\Program.cs",
-              "RelativeDocumentMoniker": "Lab_4\\Program.cs",
-              "ToolTip": "D:\\Projects\\CsLabs\\CsLabs\\Lab_4\\Program.cs",
-              "RelativeToolTip": "Lab_4\\Program.cs",
-              "ViewState": "AgIAALAAAAAAAAAAAAAUwLsAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Projects\\CsLabs\\CsLabs\\sem-1-lab-03-report-generator\\Program.cs",
+              "RelativeDocumentMoniker": "sem-1-lab-03-report-generator\\Program.cs",
+              "ToolTip": "D:\\Projects\\CsLabs\\CsLabs\\sem-1-lab-03-report-generator\\Program.cs",
+              "RelativeToolTip": "sem-1-lab-03-report-generator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-09T03:10:52.114Z",
+              "WhenOpened": "2026-10-16T15:47:24.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\CsLabs\\CsLabs\\Lab_3\\Program.cs",
-              "RelativeDocumentMoniker": "Lab_3\\Program.cs",
-              "ToolTip": "D:\\Projects\\CsLabs\\CsLabs\\Lab_3\\Program.cs",
-              "RelativeToolTip": "Lab_3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Projects\\CsLabs\\CsLabs\\sem-1-lab-04-event-log\\Program.cs",
+              "RelativeDocumentMoniker": "sem-1-lab-04-event-log\\Program.cs",
+              "ToolTip": "D:\\Projects\\CsLabs\\CsLabs\\sem-1-lab-04-event-log\\Program.cs",
+              "RelativeToolTip": "sem-1-lab-04-event-log\\Program.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAcwLUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-09T02:30:46.711Z"
+              "WhenOpened": "2026-10-16T15:45:52.194Z",
+              "EditorCaption": ""
             }
           ]
         }
